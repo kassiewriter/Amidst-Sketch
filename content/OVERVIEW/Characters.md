@@ -1,2 +1,12 @@
 
-POTENTIAL SPOILERS!
+# POTENTIAL SPOILERS!
+
+---
+
+##### Seller:
+
+---
+##### Greenwood:
+
+---
+##### Cal:
