@@ -997,7 +997,7 @@ body {
   &[data-slug] .page > div#quartz-body,
   .page > div#quartz-body div.center,
   .page > div#quartz-body footer {
-    background-color: rgb(43, 33, 58);
+    background-color: rgb(0, 3, 56);
     color: rgb(255, 0, 255);
   }
 
@@ -1010,18 +1010,18 @@ body {
   .page > div#quartz-body div.sidebar.left,
   .page > div#quartz-body div.sidebar.left:has(.explorer),
   .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
     color: rgb(255, 0, 255);
   }
 
   .page > div#quartz-body div.sidebar.right {
-    background-color: rgb(26, 24, 54);
+    background-color: rgb(26, 3, 57);
     color: rgb(255, 0, 255);
-    border-left: 1px solid rgb(0, 255, 255);
+    border-left: 1px solid rgb(3, 135, 171);
   }
 
   .page > div#quartz-body div.sidebar.left {
-    border-right: 1px solid rgb(0, 255, 255);
+    border-right: 1px solid rgb(6, 1, 21);
   }
 
   a.external,
