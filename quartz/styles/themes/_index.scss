@@ -796,17 +796,17 @@
   --xfa-focus-outline: auto !important;
   --xfa-unfocused-field-background: url("data:image/svg+xmlcharset=UTF-8,<svg width='1px' height='1px' xmlns='http://www.w3.org/2000/svg'><rect width='100%' height='100%' style='fill:rgba(0, 54, 255, 0.13)'/></svg>") !important;
   --zoom-factor: 1 !important;
-  --accent-1: #ec2427 !important;
+  --accent-1: #ff00ff !important;
   --accent-1-muted: #ff79c6 !important;
-  --accent-2: #edb41f !important;
+  --accent-2: #00ffff !important;
   --accent-2-muted: #8be9fd !important;
-  --accent-3: #45b64a !important;
+  --accent-3: #00ff00 !important;
   --accent-3-muted: #50fa7b !important;
-  --accent-4: #f36525 !important;
+  --accent-4: #ffff00 !important;
   --accent-4-muted: #ffb86c !important;
-  --accent-5: #4686c6 !important;
+  --accent-5: #ff0000 !important;
   --accent-5-muted: #ff5555 !important;
-  --accent-6: #f7ee49 !important;
+  --accent-6: #0000ff !important;
   --accent-6-muted: #bd93f9 !important;
   --background-accent: #000 !important;
   --interactive-accent-rgb: 72, 54, 153 !important;
@@ -989,7 +989,7 @@ body {
   }
 
   div#quartz-root {
-    background-color: rgb(43, 33, 58);
+    background-color: rgb(255, 255, 255);
     color: rgb(255, 0, 255);
   }
 
@@ -1807,7 +1807,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(255, 0, 255) 0px 0px 12.944px;
+    text-shadow: rgb(247, 238, 073) 0px 0px 12.944px;
   }
 
   h2 {
@@ -1824,7 +1824,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(0, 255, 255) 0px 0px 11.696px;
+    text-shadow: rgb(236, 036, 039) 0px 0px 11.696px;
   }
 
   h3 {
@@ -1841,7 +1841,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(0, 255, 0) 0px 0px 10.544px;
+    text-shadow: rgb(237, 180, 031) 0px 0px 10.544px;
   }
 
   h4 {
@@ -1858,7 +1858,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(255, 255, 0) 0px 0px 9.504px;
+    text-shadow: rgb(069, 182, 074) 0px 0px 9.504px;
   }
 
   h5 {
@@ -1875,7 +1875,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(255, 0, 0) 0px 0px 8.608px;
+    text-shadow: rgb(243, 101, 037) 0px 0px 8.608px;
   }
 
   h6 {
@@ -1892,7 +1892,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    text-shadow: rgb(0, 0, 255) 0px 0px 8px;
+    text-shadow: rgb(070, 134, 198) 0px 0px 8px;
   }
 
   h2.page-title,
