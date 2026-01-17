@@ -1002,7 +1002,7 @@ body {
   }
 
   .page > div#quartz-body div.sidebar {
-    background-color: rgb(26, 3, 57);
+    background-color: rgb(253, 0, 0);
     color: rgb(255, 0, 255);
   }
 
@@ -1015,9 +1015,9 @@ body {
   }
 
   .page > div#quartz-body div.sidebar.right {
-    background-color: rgb(111, 0, 255);
+    background-color: rgb(26, 3, 57);
     color: rgb(255, 0, 255);
-    border-left: 5px solid rgb(6, 1, 21);
+    border-left: 10px solid rgb(6, 1, 21);
   }
 
   .page > div#quartz-body div.sidebar.left {
@@ -1423,7 +1423,7 @@ body {
   }
 
   a.internal.tag-link::before {
-    color: rgb(255, 22, 144);
+    color: rgb(30, 255, 22);
   }
 
   ul > li {
