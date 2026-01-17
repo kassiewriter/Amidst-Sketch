@@ -1010,7 +1010,7 @@ body {
   .page > div#quartz-body div.sidebar.left,
   .page > div#quartz-body div.sidebar.left:has(.explorer),
   .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
-    background-color: rgb(26, 24, 54);
+    background-color: rgb(255, 0, 0);
     color: rgb(255, 0, 255);
   }
 
@@ -1056,7 +1056,7 @@ body {
   a.internal,
   .breadcrumb-container .breadcrumb-element > a {
     background-color: rgba(0, 0, 0, 0);
-    color: rgb(122, 106, 230);
+    color: rgb(90, 173, 241);
     cursor: pointer;
     filter: none;
     font-family:
