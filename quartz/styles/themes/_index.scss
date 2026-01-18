@@ -3572,7 +3572,7 @@ body::after {
   opacity: 0;
   z-index: 2001;
   pointer-events: none;
-  animation: flicker 5.15s infinite;
+  animation: flicker 15.15s infinite;
 }
 @keyframes flicker {
   0% {
@@ -3645,7 +3645,7 @@ body {
     0.08084290417898504px 0 1px rgba(0, 30, 255, 0.5),
     -0.08084290417898504px 0 1px rgba(255, 0, 80, 0.3),
     0 0 3px;
-  animation: textShadow 10.6s infinite;
+  animation: textShadow 15.6s infinite;
 }
 body svg,
 body hr {
@@ -3654,7 +3654,7 @@ body hr {
     -0.08084290417898504px 0 1px rgba(255, 0, 80, 0.3),
     0 0 3px
   );
-  animation: dropShadow 1.6s infinite;
+  animation: dropShadow 15.6s infinite;
 }
 @keyframes textShadow {
   0% {
