@@ -10,11 +10,11 @@
   --accent-h: 258 !important;
   --accent-l: 66% !important;
   --accent-s: 88% !important;
-  --anim-duration-fast: 1400ms !important;
-  --anim-duration-moderate: 3000ms !important;
+  --anim-duration-fast: 140ms !important;
+  --anim-duration-moderate: 300ms !important;
   --anim-duration-none: 0 !important;
-  --anim-duration-slow: 5600ms !important;
-  --anim-duration-superfast: 700ms !important;
+  --anim-duration-slow: 560ms !important;
+  --anim-duration-superfast: 70ms !important;
   --anim-motion-delay: cubic-bezier(0.65, 0.05, 0.36, 1) !important;
   --anim-motion-jumpy: cubic-bezier(0.68, -0.55, 0.27, 1.55) !important;
   --anim-motion-smooth: cubic-bezier(0.45, 0.05, 0.55, 0.95) !important;
@@ -3645,7 +3645,7 @@ body {
     0.08084290417898504px 0 1px rgba(0, 30, 255, 0.5),
     -0.08084290417898504px 0 1px rgba(255, 0, 80, 0.3),
     0 0 3px;
-  animation: textShadow 1.6s infinite;
+  animation: textShadow 10.6s infinite;
 }
 body svg,
 body hr {
