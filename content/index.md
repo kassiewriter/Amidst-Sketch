@@ -3,6 +3,7 @@
 
 #### Navigation:
 Click the folders on the left side of this page to navigate,
+
 #### Head to "OVERVIEW" for a more detailed format.
 (Or continue reading for a general rundown of info)
 
