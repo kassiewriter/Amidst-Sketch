@@ -20,7 +20,7 @@ export const sharedPageComponents: SharedLayout = {
         // from data-lang
         lang: 'en',
         lightTheme: 'light-theme',
-        darkTheme: 'dark-theme'
+        darkTheme: 'https://giscus.catppuccin.com/themes/mocha.css'
       }
    }),
 ],
