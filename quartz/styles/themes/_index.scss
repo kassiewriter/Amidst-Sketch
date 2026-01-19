@@ -1078,7 +1078,7 @@ body {
   &[data-slug] .page > div#quartz-body,
   .page > div#quartz-body div.center,
   .page > div#quartz-body footer {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(25, 17, 15);
     color: rgb(255, 213, 128);
   }
 
@@ -1091,7 +1091,7 @@ body {
   .page > div#quartz-body div.sidebar.left,
   .page > div#quartz-body div.sidebar.left:has(.explorer),
   .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
-    background-color: rgb(0, 3, 56);
+    background-color: rgb(0, 2, 51);
     color: rgb(255, 213, 128);
   }
 
@@ -1108,7 +1108,7 @@ body {
   a.external,
   footer a {
     background-color: rgba(0, 0, 0, 0);
-    color: rgb(255, 128, 64);
+    color: rgb(205, 1, 212);
     cursor: pointer;
     filter: none;
     font-family:
@@ -1124,8 +1124,8 @@ body {
       "Segoe UI Symbol",
       sans-serif;
     font-weight: 400;
-    text-decoration: underline solid rgb(255, 128, 64);
-    text-decoration-color: rgb(255, 128, 64);
+    text-decoration: underline solid rgb(188, 10, 186);
+    text-decoration-color: rgb(188, 10, 186);
     text-decoration-line: underline;
     text-decoration-style: solid;
     user-select: text;
@@ -1228,7 +1228,7 @@ body {
   .page article p > strong,
   strong {
     background-color: rgba(0, 0, 0, 0);
-    color: rgb(77, 188, 237);
+    color: rgb(230, 222, 218);
     cursor: text;
     filter: none;
     font-family:
@@ -1244,8 +1244,8 @@ body {
       "Segoe UI Symbol",
       sans-serif;
     font-weight: 600;
-    text-decoration: none solid rgb(77, 188, 237);
-    text-decoration-color: rgb(77, 188, 237);
+    text-decoration: none solid rgb(230, 222, 218);
+    text-decoration-color: rgb(230, 222, 218);
     text-decoration-line: none;
     text-decoration-style: solid;
     user-select: text;
@@ -1877,7 +1877,7 @@ body {
   }
 
   h2 {
-    color: rgb(255, 0, 15);
+    color: rgb(228, 10, 16);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1894,7 +1894,7 @@ body {
   }
 
   h3 {
-    color: rgb(255, 0, 15);
+    color: rgb(228, 10, 16);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1911,7 +1911,7 @@ body {
   }
 
   h4 {
-    color: rgb(255, 0, 15);
+    color: rgb(228, 10, 16);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1928,7 +1928,7 @@ body {
   }
 
   h5 {
-    color: rgb(255, 0, 15);
+    color: rgb(228, 10, 16);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1945,7 +1945,7 @@ body {
   }
 
   h6 {
-    color: rgb(255, 0, 15);
+    color: rgb(228, 10, 16);
     font-family:
       ui-sans-serif,
       -apple-system,
