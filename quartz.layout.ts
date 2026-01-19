@@ -19,8 +19,8 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDOQ9EYBc4C1KVL',
         // from data-lang
         lang: 'en',
-        lightTheme: 'https://giscus.catppuccin.com/themes/latte.css',
-        darkTheme: 'https://giscus.catppuccin.com/themes/mocha.css'
+        lightTheme: 'light-theme',
+        darkTheme: 'dark-theme'
       }
    }),
 ],
