@@ -1,19 +1,5 @@
-**Game Info:**
-Official Wiki > [[HOMEPAGE]] | *Redirects you to the front page of our wiki, right on this site.*
 
----
-
-**Lore:**
-Book & Story > [[SYNOPSIS]] | *Redirects you to the summary page of the book, the back cover.*
-|
-Terminology: [[GLOSSARY]] | *List of words or phrases used in this world, some unknown to outsiders.*
-|
-*Prologue:* [[0.0 - Amidst Sketch]]
-|
-> [!Chapters]
-> *Chapter 1:* [[1.0 - Desert Journey]]
-
-*Chapter 2:* W.I.P.
+Potential Spoilers in the Wiki if you haven't read the full book!
 
 ---
 
