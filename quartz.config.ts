@@ -40,14 +40,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#1E1C2B",
-          lightgray: "#312F3F",
-          gray: "#646464",
-          darkgray: "#ACACC8",
-          dark: "#ACACC8",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#1E1C2B", // Done, Page Background
+          lightgray: "#312F3F", // Done, Search Outline & Borders / Dividers
+          gray: "#3F3FA2", // Done, Heavier Borders & Graph Links Stars, Also Search Text Bar
+          darkgray: "#ACACC8", // Done, Main Body Text
+          dark: "#ACACC8", // Done, Header Color & UI Icon Color
+          secondary: "#7E7C9C", // Done, Explorer Text
+          tertiary: "#B71053", // Done, Explorer Selected AND Hover States (Accent)
+          highlight: "rgba(46, 30, 48, 1)", // Done, Internal Links Background
           textHighlight: "#b3aa0288",
         },
       },
