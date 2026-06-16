@@ -1,6 +1,8 @@
 
 Potential Spoilers in the Wiki if you haven't read the full book!
 
+Characters Page: [[* LIST OF CHARACTERS]]
+
 ---
 
 #### Navigation:
