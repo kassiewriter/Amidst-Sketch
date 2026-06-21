@@ -1,7 +1,4 @@
 
-
----
-
 [Starting Point = 410 JR]
 
 <350 JR = N/A (Not Applicable)
@@ -35,5 +32,3 @@ Cocobolo:      2910+
 On top of this rating system, the Top 500 Players will be shown on the leaderboard. The players are chosen only taking into account the Janka Rating, not the category they are in. This means if a player has a Janka Rating of 2425, but only 498 players have a higher Janka Rating than them, that player will be placed at #499 - Regardless of the fact that they are in the Jatoba category.
 
 All this meaning of course, that the Top 500 isn't technically exclusive to the highest category! Though it will be hard to keep your spot on the leaderboard the lower your rating is, as naturally, that may mean your division category is lower too.
-
-
