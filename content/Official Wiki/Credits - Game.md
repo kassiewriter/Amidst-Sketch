@@ -1,14 +1,14 @@
 
 (ALL @'s listed here are Roblox usernames, unless it's in a direct link.)
 To see a more detailed view of each individual's contributions towards the game, view their page in the *Portfolios* section of the site. You can click here to go to it: [[! PORTFOLIOS LIST]]
-##### Compact View:
-@Catleidoscope   - [Creator]          | Support: [https://ko-fi.com/catlei](https://ko-fi.com/catlei "https://ko-fi.com/catlei")
-@Manny20453     - [Lead Scripter] | Support: [https://ko-fi.com/manny204553](https://ko-fi.com/manny204553 "https://ko-fi.com/manny204553")
-@H_Schwab        - [Scripter]
-@Poskinss            - [Lead Builder]
-@fourflipper42     - [Lead Composer] | Support:
-@hinzbx               - [Composer]
-@FOX12827game - [Artist]
+##### Compact View: Developers
+![[Cat.jpg | 25 x 25]]@Catleidoscope   - [Creator]          | Support: [https://ko-fi.com/catlei](https://ko-fi.com/catlei "https://ko-fi.com/catlei")
+![[Manny.webp | 25 x 25]]@Manny20453     - [Lead Scripter] | Support: [https://ko-fi.com/manny204553](https://ko-fi.com/manny204553 "https://ko-fi.com/manny204553")
+![[Hector.webp |25]]@H_Schwab        - [Scripter]
+![[Crypt.jpg | 25 x 25]]@Poskinss            - [Lead Builder]
+![[flipper 1.webp |25]]@fourflipper42     - [Lead Composer] | Support: [https://fourflipper.bandcamp.com/](https://fourflipper.bandcamp.com/ "https://fourflipper.bandcamp.com/")
+![[hinz.webp | 25 x 25]]@hinzbx               - [Composer]
+![[pumpter.webp | 25 x 25]]@FOX12827game - [Artist]
 
 ---
 ##### Table View: Contributors
