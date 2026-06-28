@@ -1,27 +1,19 @@
 
 (ALL @'s listed here are Roblox usernames, unless it's in a direct link.)
 To see a more detailed view of each individual's contributions towards the game, view their page in the *Portfolios* section of the site. You can click here to go to it: [[! PORTFOLIOS LIST]]
-##### Compact View: Developers
-![[Cat.jpg | 25 x 25]]@Catleidoscope   - [Creator]          | Support: [https://ko-fi.com/catlei](https://ko-fi.com/catlei "https://ko-fi.com/catlei")
-![[Manny.webp | 25 x 25]]@Manny20453     - [Lead Scripter] | Support: [https://ko-fi.com/manny204553](https://ko-fi.com/manny204553 "https://ko-fi.com/manny204553")
-![[Hector.webp |25]]@H_Schwab        - [Scripter]
-![[Crypt.jpg | 25 x 25]]@Poskinss            - [Lead Builder]
-![[flipper 1.webp |25]]@fourflipper42     - [Lead Composer] | Support: [https://fourflipper.bandcamp.com/](https://fourflipper.bandcamp.com/ "https://fourflipper.bandcamp.com/")
-![[hinz.webp | 25 x 25]]@hinzbx               - [Composer]
-![[pumpter.webp | 25 x 25]]@FOX12827game - [Artist]
 
 ---
 ##### Table View: Contributors
 
-| Username       | Display Name (OR) Preferred Name | Role                     | Contributions (Click to view) | Pronouns (If wanted listed) | Where to support:                                                                                                    |
-| -------------- | -------------------------------- | ------------------------ | ----------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| @Catleidoscope | Catlei                           | Creator                  | [[@Catleidoscope]]            | she/her                     | Ko-Fi: [https://ko-fi.com/catlei](https://ko-fi.com/catlei "https://ko-fi.com/catlei")                               |
-| @Manny20453    | Manny20453                       | Developer: Lead Scripter | [[@Manny20453]]               | he/him                      | Ko-Fi: [https://ko-fi.com/manny204553](https://ko-fi.com/manny204553 "https://ko-fi.com/manny204553")                |
-| @H_Schwab      | Hector                           | Developer: Scripter      | [[@H_Schwab]]                 | he/him                      | N/A                                                                                                                  |
-| @Poskinss      | Cryptipher                       | Lead Builder             | [[@Poskinss]]                 | he                          | N/A                                                                                                                  |
-| @fourflipper42 | flipper                          | Lead Composer            | [[@fourflipper42]]            | they/them                   | Bandcamp: [https://fourflipper.bandcamp.com/](https://fourflipper.bandcamp.com/ "https://fourflipper.bandcamp.com/") |
-| @hinzbx        | hinz                             | Composer                 | [[@hinzbx]]                   | he/him                      | N/A                                                                                                                  |
-| @FOX12827game  | Pumpter                          | Artist                   | [[@FOX12827game]]             | she/her (or) any/he         | N/A                                                                                                                  |
+| Icon                | Username       | Display Name (OR) Preferred Name | Role                     | Contributions (Click to view) | Pronouns (If wanted listed) | Where to support:                                                                                                    |
+| ------------------- | -------------- | -------------------------------- | ------------------------ | ----------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ![[Cat.jpg]]        | @Catleidoscope | Catlei                           | Creator                  | [[@Catleidoscope]]            | she/her                     | Ko-Fi: [https://ko-fi.com/catlei](https://ko-fi.com/catlei "https://ko-fi.com/catlei")                               |
+| ![[Manny.webp]]     | @Manny20453    | Manny20453                       | Developer: Lead Scripter | [[@Manny20453]]               | he/him                      | Ko-Fi: [https://ko-fi.com/manny204553](https://ko-fi.com/manny204553 "https://ko-fi.com/manny204553")                |
+| ![[Hector.webp]]    | @H_Schwab      | Hector                           | Developer: Scripter      | [[@H_Schwab]]                 | he/him                      | N/A                                                                                                                  |
+| ![[Crypt.jpg]]      | @Poskinss      | Cryptipher                       | Lead Builder             | [[@Poskinss]]                 | he                          | N/A                                                                                                                  |
+| ![[flipper 1.webp]] | @fourflipper42 | flipper                          | Lead Composer            | [[@fourflipper42]]            | they/them                   | Bandcamp: [https://fourflipper.bandcamp.com/](https://fourflipper.bandcamp.com/ "https://fourflipper.bandcamp.com/") |
+| ![[hinz.webp]]      | @hinzbx        | hinz                             | Composer                 | [[@hinzbx]]                   | he/him                      | N/A                                                                                                                  |
+| ![[pumpter.webp]]   | @FOX12827game  | Pumpter                          | Artist                   | [[@FOX12827game]]             | she/her (or) any/he         | N/A                                                                                                                  |
 
 ---
 ##### Table View of Social Media:
